@@ -45,13 +45,12 @@ The simulation provides:
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-```
+  
 3. Update the dataset path in the code
 4. Run the analysis:
-  ```bash
-  python ship_fuel_efficiency_analysis.py
-
-```
+   ```bash
+    python ship_fuel_efficiency_analysis.py
+  
 ## 📊 Sample Output
 Distance Simulation:
 - mean: XXX.XX km
