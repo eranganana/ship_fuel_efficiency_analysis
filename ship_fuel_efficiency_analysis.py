@@ -22,7 +22,7 @@ sns.set_palette("husl")
 # ============================================================================
 
 # Load the dataset
-df = pd.read_csv(r"C:\D\achini\computer intensive statistics\ship fuel efficiency analysis\ship_fuel_efficiency.csv")
+df = pd.read_csv(r"C:\Users\uocja\ship_fuel_efficiency_analysis\data\ship_fuel_efficiency.csv")
 
 # Print basic information about the dataset
 print("=" * 80)
