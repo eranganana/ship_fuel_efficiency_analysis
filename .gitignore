@@ -57,3 +57,8 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+
+*.png
+*.jpg
+*.jpeg
+images/
