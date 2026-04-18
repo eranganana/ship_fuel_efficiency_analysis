@@ -53,11 +53,11 @@ The simulation provides:
   
 ## 📊 Sample Output
 Distance Simulation:
-- mean: XXX.XX km
-- standard deviation: XXX.XX km
+- mean: 150.98 km
+- standard deviation: 149.61 km
 
-- Fuel Consumption 95% Confidence Interval: XX.XX - XX.XX liters
-- CO2 Emissions 95% Confidence Interval: XXX.XX - XXX.XX kg
+  - Fuel Consumption 95% Confidence Interval: 122.54 - 17465.87 liters
+- CO2 Emissions 95% Confidence Interval: 328.41 - 46808.52 kg
 
 ## 📝 Report
 Detailed findings and methodology are available in the project report.
