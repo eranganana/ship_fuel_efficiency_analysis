@@ -58,7 +58,7 @@ wheels/
 .installed.cfg
 *.egg
 
-*.png
-*.jpg
-*.jpeg
-images/
+#*.png
+#*.jpg
+#*.jpeg
+#images/
